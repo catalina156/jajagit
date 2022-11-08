@@ -1,1 +1,3 @@
 hare un pequeño resumen de lo aprendido en el submodulo
+yo e aprendido a hacer un commit
+a adicionar, a inicializar y crea carpeta, mostrar la ruta del sistema 

@@ -1,1 +1,4 @@
 Hoy realizaremos la ultima practica de git para continuar en python
+creamos una capeta en escritorio que se llama ultima practica git, en escritorio le dimos clic derecho a la carpeta y luego darle en git bash here e inicializamos en git, cremao 2 archivos en visual studio code que cada uno se llama conlucion.txt y informe.txt 
+en git miramos el status de los archivos y luego los adicionamos.
+luego hicimos un commit y volvimos a mirar el estado del respositorio 
